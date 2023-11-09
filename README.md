@@ -1,2 +1,1 @@
-# rsschool-cv
-rsschool-cv
+https://djpont.github.io/rsschool-cv/
