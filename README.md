@@ -1,1 +1,1 @@
-https://djpont.github.io/rsschool-cv/cv
+https://djpont.github.io/rsschool-cv/
